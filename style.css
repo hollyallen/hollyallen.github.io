@@ -1,0 +1,36 @@
+body {
+  font-size:100%; 
+  line-height:1.5;
+  font-family: 'Merriweather', Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+  font-size: 2.747em;
+}
+h2 {
+  font-size: 0.874em;
+}
+h3 {
+  font-size:1.229em;
+}
+
+section {
+  max-width:34em;
+  margin:auto;
+  padding:0 1em;
+}
+
+/* Color from U.S. Web Design Standards */
+a:link {
+  color: #0071bc;
+}
+
+/* Color from U.S. Web Design Standards */
+a:visited {
+  color: #4c2c92;
+}
+
+@media screen and (max-width: 25em) {
+  body { font-size: 90%;}
+}
+
