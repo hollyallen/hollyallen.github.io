@@ -11,6 +11,7 @@ Here are some writings about leadership, especially leading software engineers, 
 but I hear good things.
 * [Turn the Ship Around](http://davidmarquet.com/books/) by David Marquet. Okay, I haven't read this book, but 
 everything I've heard points to it being great.
+* [The Energy Project](http://theenergyproject.com/blog/) is a blog, a newsletter, and the main guy Tony Schwartz often writes op eds in the New York Times. Their [key ideas](http://theenergyproject.com/key-ideas) about creativity and energy renewal really resonate with me.
 
 ## Other Lists
 * [Marc Esher](https://gist.github.com/marcesher/0553d95a2431fd02e7ba)
