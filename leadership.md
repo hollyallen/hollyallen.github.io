@@ -1,8 +1,7 @@
 ---
 ---
 
-Leadership Resources
-====================
+# Leadership Resources
 
 Here are some writings about leadership, especially leading software engineers, that have resonated for me over the years.
 
@@ -13,6 +12,5 @@ but I hear good things.
 * [Turn the Ship Around](http://davidmarquet.com/books/) by David Marquet. Okay, I haven't read this book, but 
 everything I've heard points to it being great.
 
-Other Lists
------------
+## Other Lists
 * [Marc Esher](https://gist.github.com/marcesher/0553d95a2431fd02e7ba)
