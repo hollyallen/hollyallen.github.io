@@ -6,21 +6,18 @@ body {
 }
 
 h1 {
-  font-family: ‘Merriweather’;
   font-weight: 700;
   font-size: 40px;
   line-height: 1.3em/52px;
 }
 
 h2 {
-  font-family: ‘Merriweather’;
   font-weight: 700;
   font-size: 30px;
   line-height: 1.3em/39px;
 }
 
 h3 {
-  font-family: ‘Merriweather’;
   font-weight: 700;
   font-size: 20px;
   line-height: 1.3em/26px;
