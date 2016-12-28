@@ -29,14 +29,17 @@ section {
   padding:0 1em;
 }
 
-/* Color from U.S. Web Design Standards */
 a:link {
-  color: #0071bc;
+  color: #000000;
+}
+
+a:visited {
+  color: #000000;
 }
 
 /* Color from U.S. Web Design Standards */
-a:visited {
-  color: #4c2c92;
+a:hover {
+  color: #0071bc;
 }
 
 @media screen and (max-width: 25em) {
